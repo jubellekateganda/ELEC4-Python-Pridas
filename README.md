@@ -15,6 +15,4 @@ From the repository root, run:
 python set1/p1/p1_grade_calculator.py
 ```
 
-<!-- After capturing the actual run, add:
 ![P1 terminal output](set1/p1/screenshots/p1-sample-run.png)
--->
